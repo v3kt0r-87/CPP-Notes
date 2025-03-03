@@ -11,7 +11,7 @@ The written content in this repository (notes, tutorials, and explanations) is l
 - **Attribution** — You must give appropriate credit, provide a link to this license, and indicate if changes were made.  
   Suggested credit format:
 
-  > "Original work by **Shankar Vallabhan**, available at [GitHub](https://github.com/v3kt0r-87) under CC BY-SA 4.0 License."
+  > "Original work by **Shankar Vallabhan**, available at [GitHub](https://github.com/v3kt0r-87/DSA-CPP-Notes) under CC BY-SA 4.0 License."
 
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
 
