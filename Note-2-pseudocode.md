@@ -25,7 +25,11 @@ Pseudo-code is an **English-like language** used to represent the logic of a pro
 
 ```plaintext
 Start
+
 Input a
+
 area = a × a
+
 Print area
+
 Exit
