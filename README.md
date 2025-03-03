@@ -15,5 +15,5 @@ This repository follows a **dual-license** approach:
 If you share or modify the notes, you must credit **Shankar Vallabhan** with a link to the original repository:  
 🔗 [GitHub : DSA-CPP-Notes](https://github.com/v3kt0r-87/DSA-CPP-Notes)  
 
-See the [LICENSE](LICENSE) file for the code and [LICENSE_NOTES.md](LICENSE_NOTES.md) for documentation.
+See the [LICENSE](LICENSE) file for the code and [LICENSE NOTES](LICENSE.notes) for documentation.
 
