@@ -26,7 +26,3 @@ A **flowchart** is a visual representation of a solution to a problem, using dif
 | **➡ Arrows** | Indicate the direction of flow between steps |
 
 ---
-
-### Next Page → [Coming Soon]
-
-This is **Page 1**. Stay tuned for more flowchart concepts in the next pages!
