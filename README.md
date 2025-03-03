@@ -3,3 +3,17 @@
 ## [Click here for Notes](https://github.com/v3kt0r-87/DSA-CPP-Notes/blob/main/Note-1-Flowcharts.md)
 
 ## [Click here to view DSA-CPP Youtube Video Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) 
+
+## License
+
+This repository follows a **dual-license** approach:
+
+- 🖥 **Code** is licensed under the **GNU General Public License v3.0 (GPL v3.0)**.  
+- 📖 **Notes and documentation** are licensed under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**.
+
+📌 **Attribution Requirement:**  
+If you share or modify the notes, you must credit **Shankar Vallabhan** with a link to the original repository:  
+🔗 [GitHub : DSA-CPP-Notes](https://github.com/v3kt0r-87/DSA-CPP-Notes)  
+
+See the [LICENSE](LICENSE) file for the code and [LICENSE_NOTES.md](LICENSE_NOTES.md) for documentation.
+
