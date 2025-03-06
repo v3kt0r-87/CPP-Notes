@@ -7,11 +7,14 @@
 This repository follows a **dual-license** approach:
 
 - 🖥 **Code** is licensed under the **GNU General Public License v3.0 (GPL v3.0)**.  
-- 📖 **Notes and documentation** are licensed under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**.
+- 📖 **Notes and documentation** are licensed under **Creative Commons Attribution-NonCommercial-NoDerivs 4.0 (CC BY-NC-ND 4.0)**.
 
 📌 **Attribution Requirement:**  
-If you share or modify the notes, you must credit **Shankar Vallabhan** with a link to the original repository:  
+If you share the notes, you must credit **Shankar Vallabhan** with a link to the original repository:  
 🔗 [GitHub : DSA-CPP-Notes](https://github.com/v3kt0r-87/DSA-CPP-Notes)  
 
-See the [LICENSE CODE](LICENSE.code) file for the code and [LICENSE NOTES](LICENSE.notes) for documentation.
+❌ **Restrictions on Notes & Documentation:**  
+- **No Commercial Use** — You may not use the notes for commercial purposes.  
+- **No Derivatives** — You may not modify, remix, or build upon the notes.  
 
+See the [LICENSE CODE](LICENSE.code) file for the code and [LICENSE NOTES](LICENSE.notes) for documentation.
